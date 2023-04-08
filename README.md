@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on anything — especially games - let me know
 - 📫 How to reach me **thomascarney315@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/thomascarney315/](https://www.linkedin.com/in/thomascarney315/)
-- ⚡ Fun fact I make the best fresh bread cinnamon rolls!
+- 🍞 Fun fact I make the best fresh bread and cinnamon rolls!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
