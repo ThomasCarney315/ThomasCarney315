@@ -15,9 +15,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/@thomascarney315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@thomascarney315" height="30" width="40" /></a>
-<a href="https://codepen.io/@thomascarney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@thomascarney" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thomascarney315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomascarney315" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thomascarney315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thomascarney315" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/thomascarney315" target="blank"><img align="center" src="https://user-images.githubusercontent.com/118192650/248555539-dbd5487d-3c01-4b85-8686-18c40b564792.svg" alt="codewars" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
